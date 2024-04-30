@@ -9,7 +9,7 @@
 ![Top Languages](https://github-stats.rkfernandez.com/api/top-langs/?username=RaeKennethFernandez&show_icons=true&layout=compact)
 
 ---
-![RaeKennethFernandez's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaeKennethFernandez&theme=radical&hide_border=true)
+![RaeKennethFernandez's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaeKennethFernandez&hide_border=true)
 ---
 
 ## :zap: Github Stats
@@ -17,4 +17,4 @@
 ![RaeKennethFernandez's Stats](https://github-stats.rkfernandez.com/api?username=RaeKennethFernandez&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged_percentage)
 
 
-[Waren Gonzaga](https://rkfernandez.com)
+[Website](https://rkfernandez.com)
