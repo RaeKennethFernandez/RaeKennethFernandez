@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi, I'm Rae Kenneth Fernandez
 
-<!--
-**RaeKennethFernandez/RaeKennethFernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full-stack+Developer;UI%2FUX+Designer;Researcher)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+## 🔧 Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![skills](https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,wordpress,nodejs,vue,react,dotnet,express,mysql,postman,py,r,vim,docker,md,git,bootstrap,ps,pr,figma,xd,notion,bash,jquery,aws,nginx,vscode,visualstudio,vuetify,github,vercel,gitlab,ubuntu&theme=light)
+
+![Top Languages](https://github-stats.rkfernandez.com/api/top-langs/?username=RaeKennethFernandez&show_icons=true&layout=compact)
+
+---
+![RaeKennethFernandez's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaeKennethFernandez&theme=radical&hide_border=true)
+---
+
+## :zap: Github Stats
+
+![RaeKennethFernandez's Stats](https://github-stats.rkfernandez.com/api?username=RaeKennethFernandez&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged_percentage)
+
+
+[Waren Gonzaga](https://rkfernandez.com)
