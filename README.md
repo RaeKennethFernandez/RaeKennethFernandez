@@ -27,7 +27,7 @@
 
 ## :zap: Github Stats
 
-![Top Languages](https://github-stats.rkfernandez.com/api/top-langs/?username=RaeKennethFernandez&show_icons=true&layout=compact)
+![Top Languages](https://github-stats.rkfernandez.com/api/top-langs/?username=RaeKennethFernandez&show_icons=true&layout=compact&hide=java)
 
 ---
 ![RaeKennethFernandez's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaeKennethFernandez&hide_border=true)
