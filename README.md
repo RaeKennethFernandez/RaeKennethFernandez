@@ -24,6 +24,9 @@
 ### Graphic Design
 ![skills](https://skillicons.dev/icons?i=ps,pr&theme=light)
 
+<hr>
+| Adaptability | Flexibility | Critical Thinking | Agile | RAD |
+<hr>
 
 ## :zap: Github Stats
 
