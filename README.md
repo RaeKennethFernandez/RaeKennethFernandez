@@ -1,6 +1,10 @@
 ### Hi, I'm Rae Kenneth Fernandez
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full-stack+Developer;UI%2FUX+Designer;Researcher)](https://git.io/typing-svg)
 
+For inquiries: <a href="mailto:contact@rkfernandez.com">contact@rkfernandez.com</a>
+
+<hr>
+
 ## 🔧 Technologies
 
 ### Frameworks
