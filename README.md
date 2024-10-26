@@ -14,19 +14,19 @@ For inquiries: <a href="mailto:contact@rkfernandez.com">contact@rkfernandez.com<
 ![skills](https://skillicons.dev/icons?i=python,r,php,javascript,html,css,bash,dotnet&theme=light)
 
 ### Development Tools
-![skills](https://skillicons.dev/icons?i=visualstudio,vscode,vim,docker,md,git,postman,notion&theme=light)
+![skills](https://skillicons.dev/icons?i=visualstudio,vscode,vim,docker,md,git,postman,notion,tensorflow&theme=light)
 
 ### Cloud Platforms
 ![skills](https://skillicons.dev/icons?i=aws,vercel,github,gitlab,bitbucket&theme=light)
 
 ### Operating Systems
-![skills](https://skillicons.dev/icons?i=ubuntu,linux&theme=light)
+![skills](https://skillicons.dev/icons?i=ubuntu,linux,windows&theme=light)
 
 ### Database
 ![skills](https://skillicons.dev/icons?i=mysql&theme=light)
 
 ### Design Tools
-![skills](https://skillicons.dev/icons?i=figma,xd,ps,pr&theme=light)
+![skills](https://skillicons.dev/icons?i=figma,xd,ps,pr,ae&theme=light)
 
 
 <hr>
