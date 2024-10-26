@@ -7,26 +7,27 @@ For inquiries: <a href="mailto:contact@rkfernandez.com">contact@rkfernandez.com<
 
 ## 🔧 Technologies
 
-### Frameworks
-![skills](https://skillicons.dev/icons?i=laravel,bootstrap,wordpress,vue,jquery,express,django,nodejs,dotnet,vuetify,react&theme=light)
+### Frameworks & Libraries
+![skills](https://skillicons.dev/icons?i=laravel,bootstrap,wordpress,vue,jquery,express,django,nodejs,vuetify,react&theme=light)
 
 ### Programming Languages
-![skills](https://skillicons.dev/icons?i=python,r,php,javascript,html,css,bash&theme=light)
+![skills](https://skillicons.dev/icons?i=python,r,php,javascript,html,css,bash,dotnet&theme=light)
 
 ### Development Tools
 ![skills](https://skillicons.dev/icons?i=visualstudio,vscode,vim,docker,md,git,postman,notion&theme=light)
 
-### Cloud Computing
-![skills](https://skillicons.dev/icons?i=aws,vercel,github,gitlab,bitbucket,ubuntu,linux&theme=light)
+### Cloud Platforms
+![skills](https://skillicons.dev/icons?i=aws,vercel,github,gitlab,bitbucket&theme=light)
 
-### UI & UX Design
-![skills](https://skillicons.dev/icons?i=figma,xd&theme=light)
+### Operating Systems
+![skills](https://skillicons.dev/icons?i=ubuntu,linux&theme=light)
 
 ### Database
 ![skills](https://skillicons.dev/icons?i=mysql&theme=light)
 
-### Graphic Design
-![skills](https://skillicons.dev/icons?i=ps,pr&theme=light)
+### Design Tools
+![skills](https://skillicons.dev/icons?i=figma,xd,ps,pr&theme=light)
+
 
 <hr>
 | Adaptability | Flexibility | Critical Thinking | Agile | RAD |
