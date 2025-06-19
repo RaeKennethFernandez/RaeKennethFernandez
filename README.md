@@ -35,12 +35,12 @@ For inquiries: <a href="mailto:contact@rkfernandez.com">contact@rkfernandez.com<
 
 ## :zap: Github Stats
 
-![Top Languages](https://github-stats.rkfernandez.com/api/top-langs/?username=RaeKennethFernandez&show_icons=true&layout=compact&hide=java)
+![Top Languages](https://github-stats.rkfernandez.com/api/top-langs/?username=RaeKennethFernandez&show_icons=true&layout=compact&hide=java&langs_count=8)
 
 ---
 ![RaeKennethFernandez's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaeKennethFernandez&hide_border=true)
 
-![RaeKennethFernandez's Stats](https://github-stats.rkfernandez.com/api?username=RaeKennethFernandez&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged_percentage)
+![RaeKennethFernandez's Stats](https://github-stats.rkfernandez.com/api?username=RaeKennethFernandez&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
 
 [Website](https://rkfernandez.com)
