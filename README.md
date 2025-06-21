@@ -38,7 +38,7 @@ For inquiries: <a href="mailto:contact@rkfernandez.com">contact@rkfernandez.com<
 ![Top Languages](https://github-stats.rkfernandez.com/api/top-langs/?username=RaeKennethFernandez&show_icons=true&layout=compact&hide=java,TeX&langs_count=8)
 
 ---
-![RaeKennethFernandez's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaeKennethFernandez&hide_border=true)
+![RaeKennethFernandez's Streak](https://streak-stats.demolab.com/?user=RaeKennethFernandez)
 
 ![RaeKennethFernandez's Stats](https://github-stats.rkfernandez.com/api?username=RaeKennethFernandez&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
