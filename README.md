@@ -28,7 +28,7 @@ For inquiries: <a href="mailto:contact@rkfernandez.com">contact@rkfernandez.com<
 ### Design Tools
 ![skills](https://skillicons.dev/icons?i=figma,xd,ps,pr,ae&theme=light)
 
-
+| DRY | SOLID | DDD | OOP | MVC |
 <hr>
 | Adaptability | Flexibility | Critical Thinking | Agile | RAD |
 <hr>
