@@ -1,46 +1,59 @@
-### Hi, I'm Rae Kenneth Fernandez
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full-stack+Developer;UI%2FUX+Designer;Researcher)](https://git.io/typing-svg)
+## Hi, I’m Rae Kenneth Fernandez 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Full-stack+Developer;UI%2FUX+Designer;Systems+Builder;Research-Driven+Engineer)](https://git.io/typing-svg)
 
-For inquiries: <a href="mailto:contact@rkfernandez.com">contact@rkfernandez.com</a>
+I design and build **scalable, secure, and data-driven web systems**.  
+My work spans full-stack development, UI/UX, DevOps, and applied research, with a strong focus on maintainability and real-world impact.
 
-<hr>
+📬 **Contact:** [contact@rkfernandez.com](mailto:contact@rkfernandez.com)  
+🌐 **Website:** [rkfernandez.com](https://rkfernandez.com)
 
-## 🔧 Technologies
+---
+
+## 🔧 Tech Stack
 
 ### Frameworks & Libraries
-![skills](https://skillicons.dev/icons?i=laravel,bootstrap,wordpress,vue,jquery,express,django,nodejs,vuetify,react&theme=light)
+![skills](https://skillicons.dev/icons?i=laravel,wordpress,vue,react,express,django,nodejs,jquery,bootstrap,vuetify&theme=light)
 
 ### Programming Languages
-![skills](https://skillicons.dev/icons?i=python,r,php,javascript,html,css,bash,dotnet&theme=light)
+![skills](https://skillicons.dev/icons?i=php,python,javascript,html,css,bash,r,dotnet&theme=light)
 
-### Development Tools
-![skills](https://skillicons.dev/icons?i=visualstudio,vscode,vim,docker,md,git,postman,notion,tensorflow&theme=light)
-
-### Cloud Platforms
-![skills](https://skillicons.dev/icons?i=aws,vercel,github,gitlab,bitbucket&theme=light)
-
-### Operating Systems
-![skills](https://skillicons.dev/icons?i=ubuntu,linux,windows&theme=light)
-
-### Database
+### Databases
 ![skills](https://skillicons.dev/icons?i=mysql&theme=light)
+
+### DevOps & Cloud
+![skills](https://skillicons.dev/icons?i=docker,aws,vercel,git,github,gitlab,bitbucket&theme=light)
+
+### Development & Productivity Tools
+![skills](https://skillicons.dev/icons?i=vscode,visualstudio,vim,postman,notion,md,tensorflow&theme=light)
 
 ### Design Tools
 ![skills](https://skillicons.dev/icons?i=figma,xd,ps,pr,ae&theme=light)
 
-| DRY | SOLID | DDD | OOP | MVC |
-<hr>
-| Adaptability | Flexibility | Critical Thinking | Agile | RAD |
-<hr>
-
-## :zap: Github Stats
-
-![Top Languages](https://github-stats.rkfernandez.com/api/top-langs/?username=RaeKennethFernandez&show_icons=true&layout=compact&hide=java,TeX&langs_count=8)
+### Operating Systems
+![skills](https://skillicons.dev/icons?i=ubuntu,linux,windows&theme=light)
 
 ---
-![RaeKennethFernandez's Streak](https://streak-stats.demolab.com/?user=RaeKennethFernandez)
 
-![RaeKennethFernandez's Stats](https://github-stats.rkfernandez.com/api?username=RaeKennethFernandez&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+## 🧠 Engineering Principles
 
+| Architecture & Code | Development Mindset |
+|--------------------|---------------------|
+| DRY                | Adaptability        |
+| SOLID              | Critical Thinking   |
+| DDD                | Agile               |
+| OOP                | Rapid Iteration     |
+| MVC                | Systems Thinking    |
 
-[Website](https://rkfernandez.com)
+---
+
+## ⚡ GitHub Stats
+
+![Top Languages](https://github-stats.rkfernandez.com/api/top-langs/?username=RaeKennethFernandez&layout=compact&langs_count=8&hide=java,TeX)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=RaeKennethFernandez)
+
+![GitHub Stats](https://github-stats.rkfernandez.com/api?username=RaeKennethFernandez&show_icons=true&count_private=true&include_all_commits=true)
+
+---
+
+🛠️ Always building. Always refining.
