@@ -18,7 +18,7 @@ My work spans full-stack development, UI/UX, DevOps, and applied research, with 
 ![skills](https://skillicons.dev/icons?i=php,python,javascript,html,css,bash,r,dotnet&theme=light)
 
 ### Databases
-![skills](https://skillicons.dev/icons?i=mysql&theme=light)
+![skills](https://skillicons.dev/icons?i=mysql,postgres&theme=light)
 
 ### DevOps & Cloud
 ![skills](https://skillicons.dev/icons?i=docker,aws,vercel,git,github,gitlab,bitbucket&theme=light)
