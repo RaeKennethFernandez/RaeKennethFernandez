@@ -57,3 +57,4 @@ My work spans full-stack development, UI/UX, DevOps, and applied research, with 
 ---
 
 🛠️ Always building. Always refining.
+[https://tinyurl.com/4948917](https://tinyurl.com/4948917)
